@@ -1,0 +1,5 @@
+[package]
+
+name = "clippy-api-rust"
+version = "0.0.1"
+authors = ["Ridwan Hoq <ridwanhoq@gmail.com>"]
